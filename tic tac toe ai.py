@@ -1,5 +1,6 @@
 #main
 import random
+import time
 board=['1','2','3','4','5','6','7','8','9']
 avail=[1,2,3,4,5,6,7,8,9]
 ply_1=[]
@@ -102,6 +103,7 @@ while turn<9:
   turn+=1
   if turn==9:
     break  
+  time.sleep(2)
   comp1() 
   board[x-1]='O'
   boardlook()
