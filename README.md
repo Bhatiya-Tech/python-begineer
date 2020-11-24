@@ -1,3 +1,3 @@
 # python-begineer
-this organisation is for help python begainner .
-we provide projects for python begainners .
+this repo is for helping python learners .
+we provide relavent projects for shapeing python skill.
