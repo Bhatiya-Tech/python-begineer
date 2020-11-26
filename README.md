@@ -1,3 +1,3 @@
-# python-begineer
-this repo is for helping python learners .
-we provide relavent projects for shapeing python skill.
+# PYTHON-BEGINEER
+This Repo is for helping Python learners .
+We provide relavent projects for shapeing python skill.
